@@ -1,0 +1,129 @@
+title {
+  width: 984px;
+  height: 983px;
+  top: 194px;
+  left: 148px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.text__title {
+  width: 793px;
+  height: 200px;
+  top: 194px;
+  left: 243px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 100px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(255, 255, 255, 1);
+}
+
+.text__subtitle {
+  width: 720px;
+  height: 72px;
+  top: 426px;
+  left: 280px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(255, 255, 255, 1);
+}
+
+.profile__image {
+  width: 984px;
+  height: 615px;
+  top: 562px;
+  left: 148px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.intro {
+  width: 785px;
+  height: 490px;
+  top: 1269px;
+  left: 148px;
+  gap: 0px;
+  opacity: 0px;
+  color: rgba(255, 255, 255, 1);
+}
+
+.text__title-intro {
+  width: 785px;
+  height: 116px;
+  top: 1269px;
+  left: 148px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 58px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(255, 255, 255, 1);
+}
+
+.text__subtitle-intro {
+  width: 720px;
+  height: 102px;
+  top: 1425px;
+  left: 148px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: gba(255, 255, 255, 1);
+}
+
+.text__subtitle-by {
+  width: 720px;
+  height: 34px;
+  top: 1537px;
+  left: 148px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: right;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(255, 255, 255, 1);
+}
+
+.text__subtitle-into {
+  width: 720px;
+  height: 156px;
+  top: 1603px;
+  left: 148px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26.08px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(255, 255, 255, 1);
+}
