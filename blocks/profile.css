@@ -42,8 +42,8 @@ title {
 }
 
 .profile__image {
-  width: 984px;
-  height: 615px;
+  max-width: 984px;
+  max-height: 615px;
   top: 562px;
   left: 148px;
   gap: 0px;
